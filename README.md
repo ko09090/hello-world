@@ -1,2 +1,2 @@
-# hello-world ssgg
+# hello-world
 just another repository
